@@ -13,8 +13,8 @@ sourceCompatibility = 1.6
 targetCompatibility = 1.6
 
 dependencies {
-    compile project(':squidb-processor')
-    compile project(':squidb-jackson-annotations')
+    compile project(':module:squidb-processor')
+    compile project(':module:squidb-jackson-annotations')
 }
 
 sourceSets {

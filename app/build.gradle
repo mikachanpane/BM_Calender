@@ -19,6 +19,14 @@ android {
 }
 
 dependencies {
+
+    //SquiDB
+    compile 'com.yahoo.squidb:squidb-json-annotations:3.0.0'
+    compile 'com.yahoo.squidb:squidb-json-plugin:3.0.0'
+    compile 'com.yahoo.squidb:squidb-annotations:3.0.0'
+    annotationProcessor 'com.yahoo.squidb:squidb-json-compiler:3.0.0'
+
+    //Install時
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation 'com.android.support:appcompat-v7:28.0.0'
     implementation 'com.android.support.constraint:constraint-layout:1.1.3'

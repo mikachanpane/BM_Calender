@@ -1,0 +1,31 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Projects\Android\BM_Calender\module\squidb\AndroidManifest.xml:8:1-13:12
+INJECTED from E:\Projects\Android\BM_Calender\module\squidb\AndroidManifest.xml:8:1-13:12
+INJECTED from E:\Projects\Android\BM_Calender\module\squidb\AndroidManifest.xml:8:1-13:12
+INJECTED from E:\Projects\Android\BM_Calender\module\squidb\AndroidManifest.xml:8:1-13:12
+INJECTED from E:\Projects\Android\BM_Calender\module\squidb\AndroidManifest.xml:8:1-13:12
+INJECTED from E:\Projects\Android\BM_Calender\module\squidb\AndroidManifest.xml:8:1-13:12
+INJECTED from E:\Projects\Android\BM_Calender\module\squidb\AndroidManifest.xml:8:1-13:12
+	package
+		ADDED from E:\Projects\Android\BM_Calender\module\squidb\AndroidManifest.xml:9:5-31
+		INJECTED from E:\Projects\Android\BM_Calender\module\squidb\AndroidManifest.xml
+		INJECTED from E:\Projects\Android\BM_Calender\module\squidb\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Projects\Android\BM_Calender\module\squidb\AndroidManifest.xml:11:5-30
+		INJECTED from E:\Projects\Android\BM_Calender\module\squidb\AndroidManifest.xml
+		INJECTED from E:\Projects\Android\BM_Calender\module\squidb\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Projects\Android\BM_Calender\module\squidb\AndroidManifest.xml:8:11-69
+	android:versionCode
+		ADDED from E:\Projects\Android\BM_Calender\module\squidb\AndroidManifest.xml:10:5-28
+		INJECTED from E:\Projects\Android\BM_Calender\module\squidb\AndroidManifest.xml
+		INJECTED from E:\Projects\Android\BM_Calender\module\squidb\AndroidManifest.xml
+uses-sdk
+INJECTED from E:\Projects\Android\BM_Calender\module\squidb\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Projects\Android\BM_Calender\module\squidb\AndroidManifest.xml
+INJECTED from E:\Projects\Android\BM_Calender\module\squidb\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Projects\Android\BM_Calender\module\squidb\AndroidManifest.xml
+		ADDED from E:\Projects\Android\BM_Calender\module\squidb\AndroidManifest.xml
+		INJECTED from E:\Projects\Android\BM_Calender\module\squidb\AndroidManifest.xml

@@ -10,10 +10,11 @@ version = '1.0'
 buildscript {
     repositories {
         mavenCentral()
+        google()
     }
 
     dependencies {
-        classpath 'com.android.tools.build:gradle:1.0.0'
+        classpath 'com.android.tools.build:gradle:3.4.1'
     }
 }
 
@@ -36,5 +37,8 @@ android {
             res.srcDirs = ['res']
             assets.srcDirs = ['assets']
         }
+    }
+    defaultConfig {
+        minSdkVersion 14
     }
 }
