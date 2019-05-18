@@ -23,8 +23,13 @@ dependencies {
     //SquiDB
     compile 'com.yahoo.squidb:squidb-json-annotations:3.0.0'
     compile 'com.yahoo.squidb:squidb-json-plugin:3.0.0'
-    compile 'com.yahoo.squidb:squidb-annotations:3.0.0'
+    compile 'com.yahoo.squidb:squidb-json-compiler:3.0.0' // Jackson plugin compile-time code generator
     annotationProcessor 'com.yahoo.squidb:squidb-json-compiler:3.0.0'
+
+    compile 'com.yahoo.squidb:squidb-annotations:3.0.0'
+    compile 'com.yahoo.squidb:squidb-processor:3.0.0'
+    annotationProcessor 'com.yahoo.squidb:squidb-processor:3.0.0'
+
 
     //Install時
     implementation fileTree(dir: 'libs', include: ['*.jar'])
